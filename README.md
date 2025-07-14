@@ -4,7 +4,6 @@ This repository contains my complete journey of learning **Data Structures and A
 
 I aim to cover every important DSA topic from basics to advanced level, with clean and well-commented code, written for learning, practice, and revision.
 
----
 
 ## 🎯 Objective
 
@@ -13,7 +12,6 @@ I aim to cover every important DSA topic from basics to advanced level, with cle
 - Practice frequently asked questions (FAANG, service-based, and startups)
 - Develop the habit of writing clean, efficient code
 
----
 
 ## 📚 Topics to be Covered
 
@@ -44,8 +42,6 @@ I aim to cover every important DSA topic from basics to advanced level, with cle
 - 🔲 Sliding Window
 - 🔲 Two Pointers
 - 🔲 Graph Algorithms (Dijkstra, Kruskal, Prim, etc.)
-
----
 
 ## 🛠️ Technologies Used
 
