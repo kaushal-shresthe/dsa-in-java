@@ -1,3 +1,5 @@
+package ControlStatement.ConditionalStatement;
+
 import java.util.Scanner;
 
 public class SwitchCaseExample {
