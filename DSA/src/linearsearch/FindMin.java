@@ -1,3 +1,5 @@
+package linearsearch;
+
 public class FindMin {
     public static void main(String[] args) {
         int[] arr = {34, 56, 23, 12, 89, 34, 11, 45, 67, 90};
